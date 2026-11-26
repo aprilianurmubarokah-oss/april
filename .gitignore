@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+.vscode/
+.idea/
+
+# Node tooling (jika kemudian ditambahkan)
+node_modules/
+dist/
+.npm/
+
+# Log & environment
+*.log
+.env
+.env.*
+!.env.example
